@@ -55,11 +55,11 @@ return end
 if LOCALE == "ruRU" then
 	-- russian translations ZamestoTV
 L[" When:"] = "Когда:";			
-L[" Where:"] = "Где:";		-- SPLASH_BOOST_FEATURE1_TITLE
-L[" "] = "";			-- TIMEMANAGER_TITLE (убрано "Uhr", так как в русском контексте это не требуется)
+L[" Where:"] = "Где:";
+L[" "] = "";
 L[" What:"] = "Что:";
-L["Achievement"] = "Достижение"			-- TRANSMOG_SOURCE_5
-L["Transmogrification"] = "Трансмогрификация"		-- SPLASH_LEGION_NEW_7_2_FEATURE2_TITLE
+L["Achievement"] = "Достижение"	
+L["Transmogrification"] = "Трансмогрификация"
 L["<Right Click> for preview"] = "<ПКМ> для предпросмотра"
 L["<Left Click> for collection"] = "<ЛКМ> для коллекции"
 L[" show me everything"] = " показать всё"
